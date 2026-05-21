@@ -1,0 +1,27 @@
+header{
+    background-color: #FFD966;
+    font-family: 'Space Grotesk', 'Segoe UI';
+
+}
+
+body{
+    margin:0px;
+    font-family: 'Space Grotesk', 'Segoe UI';
+
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+label{
+    margin:20px;
+}
+textarea{
+    margin-left:20px
+}
+input[type=submit]{
+    position: fixed;
+    top: 600px;
+    left: 620px;
+}

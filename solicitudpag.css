@@ -1,0 +1,26 @@
+h1{
+    text-indent:30px;
+}
+textarea{
+    position: fixed;
+    top:200px;
+    left:125px;
+}
+
+
+.fecha-input{
+    display: flex;
+    gap: 20px;
+    align-items: center; 
+    position: fixed;
+    top: 550px;
+    left: 500px;
+}
+
+.txt{
+    align-items:center;
+    position:fixed;
+    display:flex;
+    top:550px;
+    left:330px;
+}

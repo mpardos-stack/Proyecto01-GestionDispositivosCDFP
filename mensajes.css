@@ -1,0 +1,31 @@
+header{
+    background-color: #597eaa;
+    font-family: 'Space Grotesk', 'Segoe UI';
+    justify-content: space-between;
+    display:flex;
+    align-items:center;
+    padding:5px;
+
+}
+
+body{
+    margin:0px;
+    font-family: 'Space Grotesk', 'Segoe UI';
+
+}
+
+h2{
+    text-align: left;
+    font-size: 30px;
+    margin-left:15px;
+}
+label{
+    margin:0px;
+}
+
+.botones{
+    display:flex;
+    align-items:center;
+    gap:10px;
+
+}

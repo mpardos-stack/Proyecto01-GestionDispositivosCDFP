@@ -1,0 +1,18 @@
+.rectangulo{
+    font-family: 'Space Grotesk','Segoe UI';
+    font-size: large;
+}
+.button{
+    display:flex;
+    align-items: center;
+    gap:5px;
+
+}
+.label-text{
+    font-weight:bold;
+    margin:0px;
+}
+.selector-row{
+    float:inline-end;
+    margin-right: 80px;
+}

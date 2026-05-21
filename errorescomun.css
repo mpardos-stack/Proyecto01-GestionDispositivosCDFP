@@ -1,0 +1,21 @@
+h1{
+    margin-left:50px;
+}
+
+textarea{
+    margin-left:50px;
+    position:fixed;
+}
+
+input{
+    position: fixed;
+    top: 600px;
+    left: 620px;
+}
+.botones{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    justify-content: flex-end;
+
+}

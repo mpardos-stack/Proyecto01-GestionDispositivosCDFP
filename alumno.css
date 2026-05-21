@@ -1,0 +1,29 @@
+.rectangulo {
+    height: 570px;
+    width: 1200px;
+    background-color: white;
+    margin-left:85px;
+}
+
+body{
+    background-color: #F9CB9C;
+    font-family: 'Space Grotesk', 'Segoe UI';
+}
+nav{
+    display:flex;
+    flex-direction: column; 
+    gap: 2px;  
+    align-items: flex-start;
+    width: 0px;
+    height: 0px;
+    border-radius: 0px;
+
+}
+
+header{
+    justify-content: space-between;
+    display:flex;
+    align-items:center;
+    margin-right: 60px;
+    padding:8px;
+}
